@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying Bioinformatics at the University of Minho
 - 🌱 I’m currently learning Python, R, mySQL, Machine and Deep Learning, powerBI, SQL, mongoDB, Apache Spark...
 - 💞️ I'm looking to collaborate on data science, data analysis, or programming.
-- 📫 How to reach me links in bio and by mail: tiagopmiranda24@gmail.com
+- 📫 How to reach me links in bio
 - ⚡ Fun fact: I'm a nurse working in internal medicine 🏥 and a Beergeek 🍺😊
 
 <h3 align="left">💬📧 My social media:</h3>
