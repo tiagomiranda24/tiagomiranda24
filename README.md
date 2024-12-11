@@ -4,9 +4,8 @@
 - 👋 Hi, I’m @tiagomiranda24
 - 🔭 I’m currently studying Bioinformatics at the University of Minho
 - 🌱 I’m currently learning Python, R, mySQL, Machine and Deep Learning, powerBI, SQL, mongoDB, Apache Spark...
-- 📫 How to reach me: links in bio
 - 💞️ I'm looking to collaborate on data science, data analysis, or programming.
-- 📫 How to reach me links in bio
+- 📫 How to reach me links in bio and by mail: tiagopmiranda24@gmail.com
 - ⚡ Fun fact: I'm a nurse working in internal medicine 🏥 and a Beergeek 🍺😊
 
 <h3 align="left">💬📧 My social media:</h3>
@@ -14,9 +13,6 @@
   <a href="https://www.linkedin.com/in/tiago-miranda-b9761b110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:tiagopmiranda24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
   </div>
-  <a href="mailto:tiagopmiranda24@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-</a>
 
 <h3 align="left">💻 Programming Languages used:</h3>
 
